@@ -34,5 +34,6 @@ Customers pay at the time of check in at the register, if booked for multiple se
 ![image](https://user-images.githubusercontent.com/34051678/172109832-d5e34e2a-1ab0-4492-a6f5-26e6d48116fb.png)
 ### Logical Design
 ![image](https://user-images.githubusercontent.com/34051678/172109965-0d817c09-a396-439f-a3d3-fd294c328da3.png)
-
-
+### Physical Design
+We initially implemented the database in mySQL which we used as a test environment to create the tables, add constraints, and create the views. Writing the SQL code to create the tables followed easily from the ERD diagram. We decided to create the tables and add the primary keys in the initial table creation, but add foreign keys afterwards. This choice was made simply as a stylistic choice to improve code readability. 
+To view the Sql code, please visit [physical design](https://github.com/4tiennguyen/PAWsitive_dogCare/blob/main/CS157_FINAL_PROJECT.sql)
