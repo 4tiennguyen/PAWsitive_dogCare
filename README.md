@@ -1,2 +1,2 @@
-# PAWsitive_dogCare
-Designing a Database for PAWsitive Dog Care
+# Designing a Database for PAWsitive Dog Care
+
