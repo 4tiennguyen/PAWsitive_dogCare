@@ -2,7 +2,7 @@
 
 My teammate and I want to create a fake business called PAWsitive Dog Daycare. The business is not real, but is treated as if it is real throughout this report to achieve the best database design. So below we
 * Gathered business requirement by interviewing the business owners for their database needs
-* Performed design process such as conceptual design, logical design and physical design
+* Performed design process (in at least third normal form) such as conceptual design, logical design and physical design
 * Created development and test database. Tested required data conversion.
 * Designed a UI/UX for the front end.
 * Presented and wrote a report communicating the results to non-technical and technical audiences.  
