@@ -29,4 +29,10 @@ Customers pay at the time of check in at the register, if booked for multiple se
 * An employee can only work in one department.
 * Boarding employee maximum number of dogs per bookings is 8
 * For now, the company only has private training sessions which means each training employee only trains one dog at a time.
+# DESIGN
+### Conceptual Design
+![image](https://user-images.githubusercontent.com/34051678/172109832-d5e34e2a-1ab0-4492-a6f5-26e6d48116fb.png)
+### Logical Design
+![image](https://user-images.githubusercontent.com/34051678/172109965-0d817c09-a396-439f-a3d3-fd294c328da3.png)
+
 
